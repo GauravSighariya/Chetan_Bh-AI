@@ -125,5 +125,5 @@ STATIC_URL = 'static/'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
-OPENAI_API_KEYS = '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'
+OPENAI_API_KEYS = 'enter your api key'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
